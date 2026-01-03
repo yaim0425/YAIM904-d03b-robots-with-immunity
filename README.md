@@ -1,5 +1,7 @@
 # YAIM904 d03b – Robots with Immunity 🤖🛡️
 
+---
+
 ## 📦 Description
 
 **YAIM904 d03b – Robots with Immunity** adds special versions of construction and logistic robots that are **immune to damage**.
@@ -50,7 +52,7 @@ No configuration is required. Just craft and use them.
 
 ## ❤️ Support
 
-Suggestions, ideas, and balance feedback are welcome on the GitHub repository.
+Suggestions, ideas and balance feedback are welcome on the GitHub repository.
 
 ---
 
